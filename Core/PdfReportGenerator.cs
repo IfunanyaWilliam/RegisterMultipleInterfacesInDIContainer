@@ -6,7 +6,7 @@ namespace RegisterMultipleInterfacesInDIContainer.Core
     {
         public void GenerateReport()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Generating pdf ...");
         }
     }
 }
